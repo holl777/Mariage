@@ -1,0 +1,14 @@
+{
+  "name": "mariage-invitation",
+  "version": "1.0.0",
+  "description": "Invitation au mariage de Marisol et Olivier",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Olivier Bergeron",
+  "license": "ISC"
+}
